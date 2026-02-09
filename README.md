@@ -30,4 +30,3 @@ La aplicación incluye:
 * Informe técnico en formato PDF siguiendo CRISP-DM.
 * Código fuente completo y comentado.
 * Aplicación Streamlit funcional.
-* Presentación para la defensa del proyecto.
